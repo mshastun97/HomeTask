@@ -1,0 +1,11 @@
+D:\Univer\IT Academy\Git\HomeTask\TheFirstWebApi\TheFirstWebApi\bin\Debug\netcoreapp2.0\TheFirstWebApi.deps.json
+D:\Univer\IT Academy\Git\HomeTask\TheFirstWebApi\TheFirstWebApi\bin\Debug\netcoreapp2.0\TheFirstWebApi.runtimeconfig.json
+D:\Univer\IT Academy\Git\HomeTask\TheFirstWebApi\TheFirstWebApi\bin\Debug\netcoreapp2.0\TheFirstWebApi.runtimeconfig.dev.json
+D:\Univer\IT Academy\Git\HomeTask\TheFirstWebApi\TheFirstWebApi\bin\Debug\netcoreapp2.0\TheFirstWebApi.dll
+D:\Univer\IT Academy\Git\HomeTask\TheFirstWebApi\TheFirstWebApi\bin\Debug\netcoreapp2.0\TheFirstWebApi.pdb
+D:\Univer\IT Academy\Git\HomeTask\TheFirstWebApi\TheFirstWebApi\obj\Debug\netcoreapp2.0\TheFirstWebApi.csprojAssemblyReference.cache
+D:\Univer\IT Academy\Git\HomeTask\TheFirstWebApi\TheFirstWebApi\obj\Debug\netcoreapp2.0\TheFirstWebApi.csproj.CoreCompileInputs.cache
+D:\Univer\IT Academy\Git\HomeTask\TheFirstWebApi\TheFirstWebApi\obj\Debug\netcoreapp2.0\TheFirstWebApi.AssemblyInfoInputs.cache
+D:\Univer\IT Academy\Git\HomeTask\TheFirstWebApi\TheFirstWebApi\obj\Debug\netcoreapp2.0\TheFirstWebApi.AssemblyInfo.cs
+D:\Univer\IT Academy\Git\HomeTask\TheFirstWebApi\TheFirstWebApi\obj\Debug\netcoreapp2.0\TheFirstWebApi.dll
+D:\Univer\IT Academy\Git\HomeTask\TheFirstWebApi\TheFirstWebApi\obj\Debug\netcoreapp2.0\TheFirstWebApi.pdb
